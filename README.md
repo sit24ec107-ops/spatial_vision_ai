@@ -29,12 +29,15 @@ An edge-AI spatial intelligence pipeline that continuously builds and updates a 
 
 ---
 
+
+
 ## Quick Start Guide
 
 ### 1. Prerequisites
 Ensure you have Python installed and the Ollama background service running with your preferred local model:
 ```bash
 ollama run llama3
+
 
 **DEMO VIDEO**
 https://drive.google.com/file/d/1wOMDM_itb8MpPkc8f3iQB6bwjORLX7Nm/view?usp=drivesdk
